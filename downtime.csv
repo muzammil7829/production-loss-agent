@@ -1,0 +1,6 @@
+Date,Machine,Downtime_Minutes,Reason
+2026-06-01,Pump-1,60,Pump Failure
+2026-06-02,Pump-1,90,Power Failure
+2026-06-03,Pump-1,120,Maintenance
+2026-06-04,Pump-1,30,Valve Issue
+2026-06-05,Pump-1,45,Operator Error

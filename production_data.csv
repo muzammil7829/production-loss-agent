@@ -1,0 +1,8 @@
+Date,Target,Actual,Downtime,Reason
+2026-06-01,1000,850,120,Pump Failure
+2026-06-02,1000,900,60,Power Failure
+2026-06-03,1000,750,180,Maintenance
+2026-06-04,1000,950,30,Operator Error
+2026-06-05,1000,800,100,Pump Failure
+2026-06-06,1000,700,200,Compressor Failure
+2026-06-07,1000,880,80,Valve Issue
